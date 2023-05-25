@@ -19,7 +19,6 @@ Remote Sensing (RS) dehazing is a very difficult task due to the complex image d
 
 
 ##  DATA
-
 [SateHaze1k]:https://aistudio.baidu.com/aistudio/datasetdetail/134292
 
 ##pretain
