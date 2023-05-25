@@ -22,7 +22,8 @@ Remote Sensing (RS) dehazing is a very difficult task due to the complex image d
 
 [SateHaze1k]:https://aistudio.baidu.com/aistudio/datasetdetail/134292
 
-
+##pretain
+[pre-tian models]:RUL: https://pan.baidu.com/s/1b1k7xfzYMiRQJsWDIsIraA PASS: enj3 
 ```
 @article{bai2022self,
     title = {Remote Image Dehazing Using Progressive Frequency Filtering and Adaptive Self-Attention},
